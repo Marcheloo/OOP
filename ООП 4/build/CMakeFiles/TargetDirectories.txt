@@ -1,0 +1,4 @@
+C:/Users/mark_/OneDrive/Рабочий стол/ООП таски/ООП 4/build/CMakeFiles/main.dir
+C:/Users/mark_/OneDrive/Рабочий стол/ООП таски/ООП 4/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mark_/OneDrive/Рабочий стол/ООП таски/ООП 4/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/mark_/OneDrive/Рабочий стол/ООП таски/ООП 4/build/RIngBuff/CMakeFiles/RingBuff.dir

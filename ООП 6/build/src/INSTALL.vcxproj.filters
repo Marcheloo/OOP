@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mark_\OneDrive\Рабочий стол\ООП таски\ООП 6\build\CMakeFiles\d0c0337e0f01ddaabd2bb5fe0c156565\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{140B7AE5-88E2-395E-8D18-5070529589A9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

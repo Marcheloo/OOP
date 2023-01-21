@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mark_\OneDrive\Рабочий стол\ООП таски\ООП 4\task4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mark_\OneDrive\Рабочий стол\ООП таски\ООП 4\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{228BA010-2306-3413-9E7A-6122324A2E95}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+C:/Users/mark_/OneDrive/Рабочий стол/ООП таски/ООП 5/build/CMakeFiles/parallel.dir
+C:/Users/mark_/OneDrive/Рабочий стол/ООП таски/ООП 5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mark_/OneDrive/Рабочий стол/ООП таски/ООП 5/build/CMakeFiles/ZERO_CHECK.dir
