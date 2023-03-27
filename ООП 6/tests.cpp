@@ -1,6 +1,5 @@
 #include "gtest/gtest.h"
 #include "Rpn/rpn.h"
-#include "Stack/stack.h"
 using namespace std;
 
 TEST(ch, value)
